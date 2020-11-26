@@ -1,0 +1,41 @@
+@media (max-width:768px) {
+  .image-and-text, .others-row{
+    width: 85%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+
+.header{
+  height: 100vh;
+}
+  .man {
+  position: absolute;
+  top:0;
+  left:0;
+  }
+
+.header-carrier{
+  z-index: 1;
+  margin: 50% 7.5% 0;
+  text-align: center !important;
+}
+
+.select-img-text h1, h2{
+font-size:1rem !important;
+}
+
+.header-carrier h1{
+  font-size: 1.5rem;
+}
+
+.header h1 span{
+  font-size: 2rem !important;
+}
+.shop-col-1{
+  display: block;
+}
+
+.shop-col {
+  margin-bottom: 20px;
+}
+}
